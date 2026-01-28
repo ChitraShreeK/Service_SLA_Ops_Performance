@@ -9,3 +9,8 @@ The organization is experiencing:
 2. Repeat escalations, increasing rework and handling time
 3. Inconsistent resolution times across teams and ticket categories
 Despite having defined SLAs and operational processes, service performance remains unstable and difficult to predict.
+
+Phase 2: MEASURE
+Explain what KPI I chose
+Explain why they matter
+Explain how SLA is defined
