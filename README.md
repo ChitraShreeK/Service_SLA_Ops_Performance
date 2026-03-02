@@ -300,3 +300,56 @@ If implemented effectively, these interventions are expected to:
 
 Actual impact would depend on execution discipline, stakeholder alignment and continuous monitoring.
 
+## Phase 5: Performance Monitoring & Sustainability Framework
+This phase ensures that the process improvements proposed in Phase 4 are sustained through structured monitoring, accountability and continous performance evaluation.
+
+### Dashboard Implementation
+A centralized Tableau dashboard was developed to enable:
+- SLA compliance tracking
+- SLA breach segmentation by priority, channel, and issue category
+- Ticket aging and resolution trend analysis
+
+#### Dashboard Capabilities
+
+- KPI Cards:
+  - SLA Compliance %
+  - Avg Resolution Time (MTTR)
+  - Escalation Rate %
+  - Total Ticket Volume
+
+- Trend Monitoring:
+  - SLA performance over time
+  - Resolution time movement patterns
+
+- Drill-down Analysis:
+  - Priority-wise breach visibility
+  - Channel impact analysis
+
+#### SLA Control Mechanisms
+To sustain improvements, the following governance structure is recommended:
+
+- Weekly SLA review meetings
+- Medium-priority aging audit
+- Monthly root cause deep-dive on breached tickets
+- SLA performance scorecards shared with leadership
+- Escalation trend monitoring
+
+This ensures that SLA underperformance is detected early and addressed systematically.
+
+### Conclusion
+
+This project applied the DMAIC framework to diagnose and address SLA underperformance within a service operations environment.
+
+Key findings:
+
+- SLA breaches were systemic and process-driven.
+- Medium-priority tickets were consistently deprioritized.
+- Escalation behavior reflected late detection of SLA risk.
+- Agent-level performance was stable, confirming structural gaps.
+
+Through structured analysis and targeted improvement recommendations, this project establishes a sustainable framework for:
+
+- Improving SLA reliability
+- Reducing operational firefighting
+- Enhancing accountability
+- Enabling proactive service governance
