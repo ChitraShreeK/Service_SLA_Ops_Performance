@@ -31,7 +31,7 @@ The objective of this project is to apply **Lean Six Sigma(DMAIC)** methodology 
 1. Analysis of service ticket data
 2. SLA compliance and escalation analysis
 3. Team-wise and category-wise performance evaluation
-4. Identification of process-level improvement oppurtunities
+4. Identification of process-level improvement opportunities
 5. Agent level performance evaluation(where applicable)
 
 ## Methodology Overview
@@ -301,7 +301,7 @@ If implemented effectively, these interventions are expected to:
 Actual impact would depend on execution discipline, stakeholder alignment and continuous monitoring.
 
 ## Phase 5: Performance Monitoring & Sustainability Framework
-This phase ensures that the process improvements proposed in Phase 4 are sustained through structured monitoring, accountability and continous performance evaluation.
+This phase ensures that the process improvements proposed in Phase 4 are sustained through structured monitoring, accountability and continuous performance evaluation.
 
 ### Dashboard Implementation
 A centralized Tableau dashboard was developed to enable:
